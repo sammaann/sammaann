@@ -14,8 +14,11 @@ I'm open to collaborating on:
 
 
 ‣Frontend development (React, Tailwind, Bootstrap)
+
 ‣Web applications & UI/UX design
+
 ‣Open-source projects related to web technologies
+
 
 📫 How to Reach Me
 
